@@ -1,3 +1,4 @@
+6
 # 🤖 Automod Bot
 
 A powerful moderation Discord bot built with Discord.js v14, Mongoose, designed to keep your server clean, safe, and automated.
@@ -104,7 +105,8 @@ All commands are organized in the `/commands` folder and auto-loaded by category
 <br><br>
 </div>
 
-
+## Adv
+<!-- GitAds-Verify: LNPCHLXDMTOIP32282ZTBTCYSOXV7QIV -->
 
 ## 👤 Author
 
