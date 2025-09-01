@@ -105,8 +105,10 @@ All commands are organized in the `/commands` folder and auto-loaded by category
 <br><br>
 </div>
 
-## Adv
-<!-- GitAds-Verify: LNPCHLXDMTOIP32282ZTBTCYSOXV7QIV -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=khanmanan/automod-bot@github)](https://gitads.dev/v1/ad-track?source=khanmanan/automod-bot@github)
+
+
 
 ## 👤 Author
 
